@@ -1,4 +1,4 @@
-# CornerGrocer
+# CornerGrocer Product Processor
 
 # Summarize the project and what problem it was solving.
 The Product Processor analyzes data from files that lists items purchased, generated throughout the Corner Grocer's opening hours, and return formatted data based on the user's selection from a menu to display item frequencies. The resulting data will help the store quickly analyze sales data in order to rearrange their produce section to create the most effective layout for their customers.
